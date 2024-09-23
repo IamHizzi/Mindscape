@@ -1,0 +1,35 @@
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  .emotion-label {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
